@@ -1,5 +1,3 @@
-/Volumes/My Passport/Fred Media Files/Coursera/11 - CS - general/287 - Software Architecture and Design/Variable names and comments.txt
-
 									--------------
 									VARIABLE NAMES
 									--------------
