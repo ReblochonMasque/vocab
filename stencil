@@ -1,0 +1,248 @@
+# Synonyms
+
+7	pattern n.design, guide, model
+7	template n.guide, model, shape
+6	design n.guide, model, outline
+4	depict v.painting
+4	shade painting
+3	color painting
+3	diagram n.guide, model, outline
+3	hatch painting
+3	limn
+3	mold n.guide, model, outline
+3	paint painting
+3	scratch painting
+3	sketch painting
+2	matrix n.pattern, frame, template
+2	pencil painting
+2	copy model, outline, prototype
+2	dash off v. & phr. v.painting
+2	delineate v.
+2	draft
+2	draw v.
+2	icon
+2	image n.pattern, frame, template
+2	model n.guide, outline, master
+2	portray v.
+2	templet
+1	abstract
+1	abstraction
+1	albertype
+1	altarpiece
+1	block print
+1	blueprint model, outline, prototype
+1	book printing
+1	cameography
+1	cartoon
+1	chalk
+1	charcoal
+1	chromotypography
+1	chromotypy
+1	chromoxylography
+1	collage
+1	collotype
+1	color print
+1	color printing
+1	crayon
+1	crosshatch
+1	cyclorama
+1	daub
+1	decal
+1	decalcomania
+1	device n.guide, model, outline
+1	diptych
+1	doodle
+1	electronography
+1	electrostatic printing
+1	engraving
+1	figure n.guide, model, outline
+1	form n.
+1	fresco
+1	glass printing
+1	graphic arts
+1	gravure
+1	guide n.model, outline, master
+1	halftone engraving
+1	history of printing exp. & idi.
+1	illumination
+1	illustration
+1	ink
+1	jig
+1	job printing
+1	letterpress
+1	letterpress photoengraving
+1	likeness
+1	line engraving
+1	lithography
+1	lithogravure
+1	lithophotogravure
+1	material
+1	mimeograph
+1	miniature
+1	monotype
+1	montage
+1	mosaic
+1	mould
+1	mural
+1	norm n.model, outline, prototype
+1	offset
+1	offset lithography
+1	onset
+1	outline n.guide, model, shape
+1	paint a picture exp. & idi.
+1	palaeotypography
+1	panorama
+1	paragon n.model, outline, prototype
+1	photo-offset
+1	photochemical process
+1	photoengraving
+1	photogelatin process
+1	photograph
+1	photographic reproduction
+1	photolithography
+1	phototypography
+1	phototypy
+1	photozincography
+1	picture
+1	picturize
+1	plan n.guide, model, outline
+1	planographic printing
+1	planography
+1	print
+1	printing
+1	printmaking
+1	publication
+1	publishing
+1	relief printing
+1	representation
+1	reproduction
+1	rotary photogravure
+1	rotogravure
+1	scumble
+1	serigraphy
+1	shape n.
+1	sheetwork
+1	stained glass window exp. & idi.
+1	stationery
+1	stencil sheet exp. & idi.
+1	still life
+1	tableau
+1	tapestry
+1	three-color printing
+1	tint
+1	trace
+1	triptych
+1	two-color printing
+1	typography
+1	typolithography
+1	wall painting
+1	wood-block printing
+1	xerography
+1	xeroprinting
+1	xylotypography
+1	zincography
+0	achieve v.
+0	allow v.
+0	archetype model, outline, prototype
+0	arrangement n.guide, model, outline
+0	attract v.
+0	baking pan exp. & idi.
+0	baling frame exp. & idi.
+0	beau ideal exp.model, outline, prototype
+0	bestow v.
+0	blue mussel exp. & idi.
+0	button mould exp. & idi.
+0	cake pan exp. & idi.
+0	casting mold exp. & idi.
+0	casting mould exp. & idi.
+0	category n.
+0	cavity n.pattern, frame, template
+0	chalk out v. & phr. v.painting
+0	character n.pattern, frame, template
+0	chill mould exp. & idi.
+0	class n.pattern, frame, template
+0	commit v.
+0	convey v.
+0	create v.
+0	criterion model, outline, prototype
+0	cycle n.
+0	cynosure model, outline, prototype
+0	dead color exp. & idi.painting
+0	decoration n.guide, model, outline
+0	deliver v.
+0	depression n.pattern, frame, template
+0	describe v.
+0	description n.pattern, frame, template
+0	do v.
+0	donate v.
+0	draw in pencil exp. & idi.painting
+0	encapsulate v.
+0	endow v.
+0	ensample model, outline, prototype
+0	execute v.
+0	exemplar model, outline, prototype
+0	exhibit v.
+0	explain v.
+0	express v.
+0	extend v.
+0	fit closely exp. & idi.
+0	frame n.pattern, template
+0	get v.
+0	give v.
+0	illustrate v.
+0	impersonate v.
+0	impression n.guide, model, outline
+0	indicate v.
+0	instruction n.guide, model, outline
+0	interpret v.
+0	introduce v.
+0	layout
+0	let v.
+0	lettering device
+0	limn draw exp. & idi.painting
+0	lot n.pattern, frame, template
+0	make v.
+0	markings n.guide, model, outline
+0	mask n.
+0	matrix block exp. & idi.
+0	mesh pin exp. & idi.
+0	mesh stick exp. & idi.
+0	mirror model, outline, prototype
+0	motif n.guide, model, outline
+0	motive n.guide, model, outline
+0	moulding board exp. & idi.
+0	moulding plate exp. & idi.
+0	oils
+0	order n.
+0	original n.guide, model, outline
+0	ornament n. & v.guide, model, outline
+0	paint in oils exp. & idi.painting
+0	patterning n.guide, model, outline
+0	perform v.
+0	precedent model, outline, prototype
+0	prepare v.
+0	press tool exp. & idi.
+0	produce v.
+0	prototype model, outline, master
+0	represent painting
+0	sample model, outline, prototype
+0	shell n.pattern, frame, template
+0	silkworm egg sheet exp. & idi.
+0	similarity n.
+0	sort n.pattern, frame, template
+0	specimen model, outline, prototype
+0	square up v. & phr. v.painting
+0	stamp n.pattern, frame, template
+0	standard model, outline, prototype
+0	stipple painting
+0	tessellation n.
+0	trim n.guide, model, outline
+0	type n.pattern, frame, template
+0	varnish painting
+0	wash painting
+0	womb n.pattern, frame, template
+0	working mould exp. & idi.
+
+# Antonyms
+
+
