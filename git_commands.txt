@@ -1,0 +1,29 @@
+git init vocab
+git add variable_names.txt
+git commit
+
+#create remote repo on github
+
+git pull https://github.com/ReblochonMasque/vocab master
+# accept the merge
+
+git push -u vocab master
+
+
+
+
+
+…or create a new repository on the command line
+
+echo "# infinitetruth" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ReblochonMasque/infinitetruth.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/ReblochonMasque/infinitetruth.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
