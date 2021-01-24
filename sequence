@@ -1,0 +1,640 @@
+sequence
+# Synonyms
+40	order n. & v.organization, form, calm
+32	succession n.calm, order, movement
+26	chain n. & v.order, set, run
+22	series n.calm, order, movement
+21	train n.order, movement, run
+20	string n. & v.order, set, run
+19	arrangement n.calm, order, event
+17	course n.order, movement, set
+16	cycle n.order, set, run
+16	outcome n.end, cause, development
+15	sequel n.order, set, end
+14	progression n.calm, order, movement
+13	consequence n.end, cause, development
+13	placement n.form, calm, order
+13	procession n.form, calm, order
+13	run n.order, movement, set
+12	continuity n.order, movement, run
+12	flow n.order, movement, run
+12	line n.calm, order, set
+11	classification n.calm, order, run
+9	concatenation n.order, run, group
+9	successiveness n.order, series
+8	array n. & v.form, calm, order
+8	consecution n.order, run, group
+8	disposition n.calm, order, run
+8	distribution n.calm, order, run
+8	effect n.end, cause, issue
+8	rank n. & v.set, kind, shade
+8	result n.end, cause, development
+7	disposal n.calm, order, system
+7	event n.end, cause, development
+7	plan n.calm, order, development
+7	program n.order, plan, scheme
+7	queue n. & v.
+7	round n.order, set, practice
+7	set n.run, group, row
+7	subsequence n.order, series, posteriority
+7	upshot n.end, cause, development
+6	aftermath n.end, cause, development
+6	chronological sequence n. & exp. & idi.
+6	corollary n.end, cause, development
+6	episode n.
+6	following n. & adj.chain, string, succession
+6	grouping n.calm, order, run
+6	issue n.movement, end, cause
+6	nexus n.connection, link, tie
+6	pattern n.form, order, plan
+6	perpetuity n.order, run, endurance
+6	prose
+6	row n.order, set, run
+6	thread n. & v.idea, link, way
+5	action program n.order, scheme, program
+5	aftereffect n.end, development, issue
+5	big picture n.order, scheme, program
+5	chronological succession n. & exp. & idi.
+5	consecutiveness n.order, series
+5	continuance n.order, movement, run
+5	course of action n.order, scheme, program
+5	fruit n.cause, effect
+5	legacy n.
+5	organization n.calm, order, system
+5	outgrowth n.end, event, development
+5	plan of action n.order, scheme, program
+5	planned series of actions n.order, scheme, program
+5	planned series of steps n.order, scheme, program
+5	planned series of tasks n.order, scheme, program
+5	range n.order, run, rule
+5	resultant n. & adj.cause, effect
+5	scenario n.order, scheme, program
+5	scheme n.order, program
+5	strategy n.order, scheme, program
+5	suite n.order, set, run
+4	alternation n.set, run, group
+4	bank n.set, line, row
+4	eventuality n.end, event, development
+4	file n.run, kind, line
+4	gamut n.rule, gauge, ruler
+4	gradation n.run, shade, rule
+4	hierarchy rule, gauge, ruler
+4	ordering n.calm, order, run
+4	rotation n.set, round, variation
+4	system n.form, plan, rule
+3	categorization n.order
+3	catenation n.order, series
+3	consequent adj.
+3	continuousness n.order, run, endurance
+3	continuum n.endurance, stability, continuation
+3	development
+3	harvest n.end, event, cause
+3	lineage n.
+3	offspring n.effect
+3	orderliness form, plan, line
+3	posteriority posteriority
+3	precipitate n.cause
+3	product
+3	progressive scheme n.order, scheme, program
+3	remainder posteriority
+3	scale n.form, calm, order
+3	sequent n.cause, effect
+3	sort n. & v.form, shape
+3	spectrum n.rule, array, gauge
+3	streak n.order, run, informal
+3	wake n.effect, chain, string
+2	action plan n.order, scheme, program
+2	align v.
+2	arithmetic progression
+2	arrange v.
+2	catena group, string
+2	chain reaction exp.end, development, issue
+2	chronology n.
+2	column n.run, line, link
+2	combination n.display, blend, array
+2	concatenate v.
+2	connection mix, blend, mixture
+2	consistency
+2	continuation n.movement, progress, issue
+2	dependence
+2	deployment n.order
+2	ecological succession exp. & idi.
+2	extension endurance, stability, steadiness
+2	form n.plan, line, display
+2	formation n.order
+2	graduation n.order, series
+2	heeling
+2	layout n.order
+2	lineup n.form, order, plan
+2	link n. & v.
+2	periodicity set, round, series
+2	progress n. & v.movement, development, issue
+2	prolongation n.course, track, route
+2	routine
+2	serial order exp. & idi.
+2	supervention posteriority
+2	taking over v. & exp. & phr. v.
+2	tier n.set, run, kind
+2	track n.order, run, link
+1	action strategy n.order, scheme, program
+1	afterlife
+1	almanac n.
+1	articulation
+1	backwash end, event, development
+1	battery n.series
+1	buzz
+1	by-product
+1	can of worms exp. & idi.end, issue, effect
+1	caravan n.chain, string, succession
+1	cavalcade
+1	chaining
+1	chasing
+1	circle n.set, round, series
+1	cline
+1	close event, conclusion, decision
+1	coming after v. & exp. & phr. v.
+1	conclusion end, event, development
+1	connectedness
+1	consecutive adj.
+1	decision n.event, development, issue
+1	degree
+1	denouement end, event, development
+1	derivation
+1	derivative
+1	descent
+1	distillate
+1	dogging
+1	drone
+1	emanation movement, event, issue
+1	end development, issue, effect
+1	end product n.cause
+1	endless belt
+1	endless round
+1	eon set, round, series
+1	era set, round, series
+1	eventuation
+1	fallout end, event, development
+1	fate
+1	filiation
+1	finish event, conclusion, decision
+1	flywheel effect
+1	follow v.
+1	follow-up end, event, development
+1	follow through exp.end, development, issue
+1	future time
+1	futurity posteriority
+1	game plan n.order, scheme, program
+1	group n.set, run, link
+1	group of actions n.order, scheme, program
+1	hangover
+1	hounding
+1	hum
+1	installment n.
+1	interdependence
+1	lateness
+1	linkage n.
+1	logical outcome
+1	method n.form, calm, plan
+1	monotone
+1	movement n.progress, development, issue
+1	next life
+1	offshoot
+1	operating procedures n.order, scheme, program
+1	package of measures n.order, scheme, program
+1	package of policies n.order, scheme, program
+1	parade
+1	payoff event, conclusion, decision
+1	pecking order n. & exp.order, run, rule
+1	pendulum
+1	performance strategy n.order, scheme, program
+1	period n.set, course, track
+1	place
+1	plan package n.order, scheme, program
+1	playoff
+1	plenum
+1	postdate
+1	postdating
+1	powder train
+1	project n.order, scheme, program
+1	protocol n.order, scheme, program
+1	provenience
+1	pursual
+1	pursuance
+1	pursuit
+1	ramification n.cause
+1	reaction end, event, development
+1	recurrence
+1	repercussion end, event, development
+1	repetition form, shape
+1	reticulation
+1	reversion posteriority
+1	sequela
+1	sequenced
+1	sequences
+1	sequencing
+1	series of actions n.order, scheme, program
+1	set of actions n.order, scheme, program
+1	shadowing
+1	single file
+1	skein n.order, series
+1	spell n.course, track, route
+1	spin-off end, event, development
+1	stream n.movement, progress, issue
+1	structure n.form, plan, line
+1	subordination
+1	supervenience
+1	swath
+1	tailing
+1	termination event, conclusion, decision
+1	trailing
+1	turn
+1	valid reasoning exp. & idi.reasoning
+1	waves end, development, issue
+1	way n.rule, development, practice
+1	while
+1	windrow
+0	succeed v.
+0	subsequent adj.
+0	accommodate v.
+0	account n.
+0	action
+0	adapt v.
+0	adjust v.
+0	adjustment n.form, calm, plan
+0	aeon set, round, series
+0	afterwards
+0	age set, round, series
+0	aggregate mix, blend, mixture
+0	agree v.
+0	alignment position, display, arrangement
+0	aline n.
+0	allocation
+0	amalgam mix, blend, mixture
+0	amalgamation blend, mixture, grouping
+0	analogy
+0	apparatuses
+0	apparel n.
+0	appendage n.chain, string, succession
+0	arranging
+0	arraying
+0	assemble v.
+0	assembly display, array, composition
+0	assess v.
+0	assignment
+0	assortment conclusion, classification, distribution
+0	attune v.
+0	bearing n.course, track, route
+0	below adv.
+0	bequest
+0	berthed
+0	berthing
+0	bespeak
+0	bestowal
+0	beyond
+0	blend mix, mixture, grouping
+0	blending mix, blend, mixture
+0	board game
+0	bottom line exp.issue, effect, result
+0	bout
+0	brew mix, blend, mixture
+0	brigaded
+0	brigades
+0	brigading
+0	bucket brigade n.line, chain, queue
+0	bunching
+0	byproduct event, conclusion, decision
+0	calendar n.
+0	calibration position, shade, rule
+0	catalog
+0	chase
+0	child
+0	circuit set, round, series
+0	classify v.
+0	clothe v.
+0	coalescence mix, blend, mixture
+0	codification n.
+0	codon n.
+0	cogent reasoning exp. & idi.reasoning
+0	cohesion endurance, stability, steadiness
+0	collate v.
+0	collating sequence exp. & idi.
+0	collection set, display, array
+0	collocate n.
+0	columniation
+0	combo mix, blend, mixture
+0	come v.
+0	coming
+0	command n.
+0	completely
+0	completion event, conclusion, decision
+0	compose v.
+0	composite mix, blend, mixture
+0	composition form, plan, line
+0	compound mix, blend, mixture
+0	computation form, plan, rule
+0	conclusive reasoning
+0	configuration form, position, arrangement
+0	conform v.
+0	conglomerate group, string
+0	consectary reasoning exp. & idi.reasoning
+0	consignment
+0	consolidation mix, blend, mixture
+0	constancy endurance, stability, steadiness
+0	constellation form, shape
+0	consummation event, conclusion, decision
+0	continua
+0	continual
+0	continuant
+0	continuations
+0	continuative
+0	continue
+0	continuer
+0	continuous
+0	contrabass
+0	control n.calm, arrangement, conclusion
+0	convoy n.chain, parade, march
+0	correct just reasoning exp. & idi.reasoning
+0	cortege n.chain, parade, march
+0	court n.chain, string, succession
+0	creature event, conclusion, decision
+0	culmination
+0	current n.movement, progress, issue
+0	dashboard n.set, row
+0	deck n.
+0	decree n.
+0	decreeing
+0	deduction
+0	degrees rule, gauge, ruler
+0	deluge movement, issue, flood
+0	design display, array, composition
+0	determination event, conclusion, decision
+0	direction n.arrangement, link, way
+0	display form, shape, array
+0	dispose v.
+0	distribute v.
+0	division
+0	do things together v. & exp. & phr. v.
+0	dovetailing endurance, stability, steadiness
+0	down adv.
+0	downstairs adv.
+0	dress n.
+0	drift n.movement, progress, issue
+0	durability endurance, stability, steadiness
+0	duration n.course, track, route
+0	echelon
+0	effectuation
+0	end result exp.effect, result, outcome
+0	endurance n.course, track, route
+0	enfilade
+0	ensconce
+0	ensconcing
+0	ensual event, conclusion, decision
+0	ensuing adj.
+0	entail
+0	enthrone
+0	entourage n.chain, string, succession
+0	epidemic flood, rash
+0	everything but kitchen sink exp. & idi.mix, blend, mixture
+0	execution event, conclusion, decision
+0	extent rule, gauge, ruler
+0	field n.kind, range, course
+0	fit v.
+0	fix v.
+0	fixing
+0	flattening
+0	flood movement, issue, rash
+0	flurry round, flood, rash
+0	flyleaf
+0	follow-on
+0	following pursuit exp. & idi.
+0	force of argument exp. & idi.reasoning
+0	forcible reasoning exp. & idi.reasoning
+0	franchise group, string
+0	fusion blend, mixture, grouping
+0	gauge rule, ruler
+0	generally
+0	genetic
+0	genetical
+0	genic
+0	gift
+0	going after v. & phr. v.
+0	good case exp. & idi.reasoning
+0	graduated system exp.rule, gauge, ruler
+0	hanging
+0	harmonize v.
+0	harping
+0	hereditariness
+0	hertz
+0	hound
+0	hunt
+0	in the midst exp. & idi.
+0	induction
+0	inference
+0	inflict
+0	inheritability
+0	inheriting
+0	instalment n.
+0	intermittent adj.
+0	interrelationship endurance, stability, steadiness
+0	isochronism set, round, series
+0	journal n.
+0	junction mix, blend, mixture
+0	kilter
+0	ladder rule, gauge, ruler
+0	lane n.link, way, course
+0	late
+0	laying
+0	lining up exp.position, arrangement
+0	linking connection, endurance, stability
+0	liquidate
+0	litany
+0	locate v.
+0	location classification, placement
+0	log n.
+0	logical reasoning exp. & idi.reasoning
+0	loop set, round, series
+0	main sequence n.color, brightness, stars
+0	mainstream
+0	mathematical adj.
+0	medley mix, blend, mixture
+0	merger mix, blend, mixture
+0	miscellany mix, blend, mixture
+0	mishmash mix, blend, mixture
+0	mix blend, mixture, grouping
+0	mixture mix, blend, grouping
+0	motion n.course, track, route
+0	numeric adj.
+0	numerical adj.
+0	olio mix, blend, mixture
+0	orbit set, round, series
+0	ordered cycle
+0	ordinal
+0	organize
+0	orientation position, arrangement
+0	outbreak flood, rash
+0	outcropping event, conclusion, decision
+0	outpouring movement, issue, flood
+0	panel n.set, row
+0	passage n.development, link, way
+0	path n.development, link, way
+0	pave
+0	payback issue, effect, result
+0	periodic adj.
+0	permanence endurance, stability, steadiness
+0	persistence n.course, track, route
+0	persuasive argument exp. & idi.reasoning
+0	persuasive reasoning exp. & idi.reasoning
+0	persuasory reasoning exp. & idi.reasoning
+0	phase set, round, series
+0	placing
+0	polynomial
+0	posited
+0	positing
+0	position shade, arrangement, conclusion
+0	positioning position, arrangement, siting
+0	posits
+0	procedure n.
+0	proceed together v. & exp. & phr. v.
+0	proceeds event, conclusion, decision
+0	projecting
+0	proportion rule, gauge, ruler
+0	protraction endurance, stability, steadiness
+0	provision
+0	put in order exp. & idi.
+0	ranging display, array, composition
+0	ranking rule, gauge, ruler
+0	rash flood
+0	rate rule, gauge, ruler
+0	ratio rule, gauge, ruler
+0	reach rule, gauge, ruler
+0	recipe blend, mixture, grouping
+0	record n.
+0	register rule, gauge, ruler
+0	regular adj.
+0	regularity
+0	regulate v.
+0	regulation n.arrangement, distribution, correction
+0	result in
+0	resulting
+0	retinue n.chain, string, succession
+0	revolution set, round, series
+0	rhythm set, round, series
+0	ring set, round, series
+0	route n.link, way, course
+0	rule form, plan, line
+0	ruler rule, gauge
+0	run up
+0	rush round, flood, rash
+0	scene n.picture, shot
+0	scope rule, gauge, ruler
+0	season n.course, track, route
+0	sequencer
+0	sequential adj.
+0	sere
+0	serial adj.
+0	serials
+0	series circuit exp. & idi.
+0	set-up n.
+0	setting
+0	settle v.
+0	settlement event, conclusion, decision
+0	setup
+0	shape form
+0	shot n.picture
+0	sighting position, arrangement
+0	siting
+0	smoothing
+0	solution mix, blend, mixture
+0	sound reasoning exp. & idi.reasoning
+0	soup mix, blend, mixture
+0	spate movement, issue, flood
+0	spread rule, gauge, ruler
+0	stability endurance, steadiness
+0	stamina endurance, stability, steadiness
+0	standardization
+0	steadiness endurance, stability
+0	steps rule, gauge, ruler
+0	stew mix, blend, mixture
+0	storyline
+0	stowing
+0	straightening
+0	stretch n.kind, course, track
+0	strong argument exp. & idi.reasoning
+0	strong point exp. & idi.reasoning
+0	style form, shape
+0	subsequently
+0	subtle reasoning exp. & idi.reasoning
+0	successive adj.
+0	successor posteriority
+0	swing n.kind, course, track
+0	synchronize v.
+0	syndicate group, string
+0	synthesis mix, blend, mixture
+0	systematization n.
+0	systemization n.
+0	tail n.line, file, chain
+0	take shot
+0	tendency n.course, track, route
+0	tenor n.course, track, route
+0	tessellation form, shape
+0	theme
+0	then
+0	tide n.movement, progress, issue
+0	tidy
+0	to order v.
+0	torrent flood, rash
+0	totally
+0	trail n.chain, string, succession
+0	transmit v.
+0	trend n.course, track, route
+0	trust group, string
+0	type form, shape
+0	typesetting
+0	unification mix, blend, mixture
+0	union blend, mixture, grouping
+0	uniting connection, endurance, stability
+0	unity endurance, stability, steadiness
+0	variety form, shape
+0	vitality endurance, stability, steadiness
+0	wave flood, rash
+0	welter flood, rash
+0	wheel set, round, series
+0	whole endurance, stability, steadiness
+0	wholly
+0	winding up
+
+# Antonyms
+20	chaos n.
+19	clutter n.
+12	disarrangement n.
+11	disorder n.
+6	litter n.
+6	overture
+5	prologue
+4	disarray n.stoppage
+4	jumble n.
+4	reason
+1	interruption
+1	stoppage
+0	disorderliness n.
+0	derivation
+0	abeyance
+0	causation
+0	cause to sleep
+0	elaborate
+0	cause
+0	hash
+-1	uproar n.
+-1	confusion n.
+-1	farrago n.
+-1	fracas n.
+-1	mess n.
+-1	rowdyism n.
+-1	muddle n.
+-1	occasion
+-1	preamble
+-1	roughness n.
+-1	rowdiness n.
+-1	unstring
+-2	brouhaha n.
+-2	hodgepodge n.
