@@ -1,0 +1,1251 @@
+# Synonyms
+
+38	disguise n. & v.act, close, appearance
+33	conceal v.act, close, cover
+32	cloak n. & v.act, close, appearance
+32	screen n. & v.close, cover, ease
+32	cover n. & v.act, close, appearance
+32	hide v.act, close, cover
+31	veil n. & v.close, appearance, cover
+29	camouflage n. & v.act, close, change
+26	shroud n. & v.act, close, cover
+18	masquerade n. & v.change, cover, meet
+16	obscure v. & adj.close, cover, check
+16	cover up v. & exp. & phr. v.act, cover, promote
+15	dissemble v.act, change, cover
+13	shield n. & v.cover, check, block
+13	blanket n. & v.cover, obscure, hide
+13	enshroud v.cover, show, obscure
+12	guise n.appearance, cover, show
+12	front n. & v.appearance, cover, show
+11	envelop v.cover, obscure, hide
+10	masque n.meet, group, fun
+9	blind n. & v.close, cover, shade
+9	dissimulate v.act, change, cover
+9	overlay n. & v.cover, top, finish
+9	semblance n.appearance, cover, show
+9	show n.appearance, cover, show
+9	veneer n. & v.appearance, cover, show
+9	wrap v.cover, obscure, confuse
+8	coat n. & v.cover, obscure, hide
+8	cover-up n.cover, cause, top
+8	covering n.cover, shade, top
+8	face n. & exp.appearance, cover, show
+8	gloss n. & v.cover, show, finish
+8	masquerade party n.meet, group, fun
+8	protect v.cover, block, obscure
+8	secrete v.close, cover, block
+8	shade n. & v.cover, obscure, confuse
+7	act trick, pretend, sham
+7	appearance n. & exp.cover, show, light
+7	bury v.close, cover, block
+7	concealment n.cover, deception, shield
+7	curtain n. & v.cover, shade, block
+7	domino n.cover, show, deception
+7	façade n.appearance, cover, show
+7	mantle n. & v.cover, obscure, hide
+7	pose n. & v.appearance, cover, show
+7	pretense n.appearance, cover, show
+7	pretext n.cover, show, fake
+6	color n. & v.appearance, cover, show
+6	air n.appearance, cover, show
+6	clothe v.cover, obscure, hide
+6	eclipse v.cover, block, obscure
+6	falsify v.act, cover, promote
+6	guard n. & v.close, cover, hide
+6	helmet clothing, defense
+6	misrepresent v.cover, twist, confuse
+5	aspect n. & exp.appearance, cover, show
+5	befog cover, obscure, hide
+5	block v.cover, check, obscure
+5	canopy n. & v.cover, shade, top
+5	cloud v.cover, obscure, confuse
+5	dance n.meet, group, fun
+5	defend v.close, cover, hide
+5	dinner n.meet, group, fun
+5	dinner party n.meet, group, fun
+5	drape v.cover, obscure, hide
+5	ensconce v.close, cover, block
+5	garden party n.meet, group, fun
+5	hen party n.meet, group, fun
+5	hood n. & v.cover, top, obscure
+5	housewarming n.meet, group, fun
+5	lawn party n.meet, group, fun
+5	mixer n.meet, group, fun
+5	pall obscure, covering, shroud
+5	put-on n.appearance, cover, show
+5	safeguard v.close, cover, hide
+5	shelter n. & v.cover, block, obscure
+5	shindig n.meet, group, fun
+5	shindy n.meet, group, fun
+5	shower n.meet, group, fun
+5	smoker n.meet, group, fun
+5	stag party n.meet, group, fun
+4	affectation n.cover, cause, trick
+4	blur v.cloud, fog
+4	coloring n.cover, show, cause
+4	distort v.promote, obscure, twist
+4	false colors n. & exp.cover, show, fake
+4	fender n.piece, defense
+4	muffle v.cover, hide, pack
+4	posture n.appearance, cover, show
+4	sheath n. & v.cover, top, case
+4	simulation n.cover, cause, trick
+4	visor n.cover, disguise, ambush
+4	whitewash v.act, cover, pass
+3	aegis defense
+3	assume v.
+3	beard n. & v.appearance, cover, promote
+3	becloud cover, obscure, hide
+3	belie v.cover, promote, twist
+3	block out v. & exp. & phr. v.close, cover, obscure
+3	blot out v. & exp.cover, block, obscure
+3	buffer defense
+3	cache v.close, cover, block
+3	cap n. & v.cover, top, obscure
+3	disguisement n.appearance, cover, show
+3	dissembling n.cover, disguise, unctuousness
+3	dissimulation n.cover, disguise, cloak
+3	dress v.appearance, cover, show
+3	dress up v. & exp. & phr. v.act, cover, pass
+3	encase v.cover, obscure, hide
+3	face mask exp. & idi.
+3	false face n. & exp.cover, disguise, front
+3	false front n. & exp.appearance, cover, show
+3	fete champetre n.meet, group, fun
+3	hat clothing
+3	hold back exp.cover, block, obscure
+3	hush v.show, prevent, conceal
+3	keep secret exp.cover, block, obscure
+3	masked ball n. & exp.cover, show, deception
+3	obstruct v.close, cover, check
+3	open house n.meet, group, fun
+3	palliate v.cover, ease, moderate
+3	party n.meet, group, fun
+3	pretence
+3	pretend v.act, cover, pass
+3	reception n.meet, group, fun
+3	reunion n.meet, group, fun
+3	slumber party n.meet, group, fun
+3	smokescreen disguise, cloak, veil
+3	smother concealment
+3	sociable n.meet, group, fun
+3	social affair n.meet, group, fun
+3	social gathering n.meet, group, fun
+3	soiree n.meet, group, fun
+3	wedding n.meet, group, fun
+3	wedding party n.meet, group, fun
+3	window dressing n. & exp.cover, top, finish
+2	adumbrate v.close, cover, block
+2	alibi cause, con, excuse
+2	apply to
+2	armor n.defense
+2	bulwark v.close, cover, hide
+2	clothing n.top, case, dress
+2	coating n.top, finish, case
+2	confuse v.cover, promote, obscure
+2	costume n.cover, show, deception
+2	cover story exp.cause, con, excuse
+2	coverture
+2	crown v.cover, obscure, hide
+2	darken v.cover, obscure, confuse
+2	decoy deception
+2	device cause, con, excuse
+2	ditch cover, block, obscure
+2	duck v.cover, block, obscure
+2	embellish v.promote, twist, confuse
+2	embroider v.promote, twist, confuse
+2	enfold v.cover, obscure, hide
+2	entertainment n.performance, show, hit
+2	envelope n.cover, top, case
+2	equivocate v.cover, promote, twist
+2	exclude close, expel, debar
+2	excuse n. & v.appearance, cover, show
+2	fakery trick, sham, con
+2	feint cause, con, excuse
+2	festivity cover, show, deception
+2	film covering, shroud
+2	form n.appearance, show, impression
+2	garble v.promote, twist, confuse
+2	gin deception
+2	gloss over
+2	go into hiding exp. & idi.cover, block, obscure
+2	go underground exp.cover, block, obscure
+2	harbor v.cover, block, obscure
+2	hole up v. & exp.cover, block, obscure
+2	hoot deception
+2	hush up exp.cover, ease, block
+2	invest v.cover, obscure, hide
+2	keep back exp.hide, conceal, retain
+2	keep from v. & exp.cover, block, obscure
+2	keep under cover v. & exp. & idi.show, prevent
+2	lie low v. & exp.cover, block, obscure
+2	look n. & exp.appearance, cover, light
+2	mail defense
+2	masking n.cover, show, deception
+2	mien n. & exp.appearance, cover, show
+2	miscolor v.promote, twist, confuse
+2	misquote
+2	misreport v.promote, twist, confuse
+2	misstate v.promote, twist, confuse
+2	mummery cover, show, deception
+2	not give away exp. & idi.cover, block, obscure
+2	not tell exp.cover, block, obscure
+2	occult v.cover, block, hide
+2	overcast v.cover, obscure, confuse
+2	overspread v.cover, obscure, hide
+2	overstate v.promote, twist, confuse
+2	patina n.covering
+2	pervert v.promote, twist, confuse
+2	plant cover, block, obscure
+2	put on exp.cover, obscure, hide
+2	put out of the way exp. & idi.cover, block, obscure
+2	reserve v.cover, block, obscure
+2	salt away exp.cover, block, obscure
+2	screening n.covering
+2	seeming n.appearance, show, light
+2	shadow close, cover, block
+2	sham n. & v.act, cover, pass
+2	shut
+2	shut out v. & exp.close, cover, obscure
+2	slant v.promote, twist, confuse
+2	smoke screen n. & exp.cover, top, case
+2	smuggle v.cover, block, obscure
+2	squirrel v.cover, block, obscure
+2	stash v.close, cover, obscure
+2	stifle v.cover, block, obscure
+2	stonewall v.act, cover, check
+2	stow away exp.cover, block, obscure
+2	stratagem cause, con, excuse
+2	subterfuge cover, show, cause
+2	superimpose v.cover, obscure, hide
+2	superpose v.cover, obscure, hide
+2	suppress v.cover, block, obscure
+2	swathe v.cover, obscure, hide
+2	take cover exp.cover, block, obscure
+2	trick deception, sham, con
+2	tuck away v. & exp.cover, block, obscure
+2	twist v.promote, confuse, lie
+2	umbrella n.top, case, dress
+2	varnish n. & v.cover, ease, moderate
+2	visage n. & exp.appearance, cover, light
+2	vizard n.
+2	vizor defense, ambush
+2	warp v.promote, twist, confuse
+2	window-dressing n.cover, show, top
+2	wrapping n.top, case, dress
+1	absorb v.cover, hide, pack
+1	acting trick, sham, con
+1	adulterate v.promote, twist, confuse
+1	affect v.act, cover, pass
+1	affinity n.appearance, impression, resemblance
+1	allay v.cover, ease, moderate
+1	alleviate v.cover, ease, moderate
+1	ambush deception
+1	anaglyph
+1	angle v.promote, twist, confuse
+1	apologize for v. & exp.cover, ease, moderate
+1	apology
+1	apply
+1	apron defense
+1	arm guard
+1	assuage v.cover, ease, moderate
+1	awning n.cover, top, case
+1	babushka clothing
+1	backstop
+1	baffle
+1	bait deception
+1	bal
+1	bal costume
+1	bal masque
+1	ball
+1	bandage n. & v.cover, hide, pack
+1	bar v.close, check, hinder
+1	bark n.top, case, dress
+1	barn dance
+1	barricade v.check, block, obscure
+1	bas-relief
+1	bassinet defense
+1	bearing n.appearance, cover, impression
+1	bearskin clothing
+1	bedim cover, obscure, hide
+1	billycock clothing
+1	bind v.cover, pack, fold
+1	binding n.top, case, dress
+1	birdlime deception
+1	blear cover, obscure, hide
+1	blowout
+1	board up exp.cover, obscure, hide
+1	bonnet clothing
+1	boss
+1	breastplate defense
+1	brigandine defense
+1	buckler defense
+1	build up
+1	bumper
+1	bundle v.cover, pack, bind
+1	bundle up v. & exp.cover, hide, pack
+1	burrow cover, obscure, hide
+1	bush up exp.cover, obscure, hide
+1	caftan clothing
+1	calash clothing
+1	cameo
+1	cameo glass
+1	canvas n.top, case, dress
+1	caparison n.top, case, dress
+1	capote clothing
+1	carapace defense
+1	carpet v.cover, obscure, hide
+1	case n.top, dress, covering
+1	casing n.covering
+1	cast n. & exp.appearance, light, top
+1	castor clothing
+1	cavo-rilievo
+1	ceiling n.top, case, dress
+1	censor v.conceal
+1	chapeau clothing
+1	charade trick, deception, sham
+1	check v.hinder, frustrate, thwart
+1	chignon clothing
+1	claim trick, sham, con
+1	close v.cover, check, block
+1	cobweb deception
+1	cocktail party
+1	coffee klatch
+1	coif clothing
+1	coiffure clothing
+1	con cover, cause, promote
+1	condone v.cover, ease, moderate
+1	congest v.check, block, obscure
+1	contraceptive
+1	cope
+1	copyright
+1	corner stone exp. & idi.defense
+1	costume party
+1	couch cover, obscure, hide
+1	countenance n. & exp.appearance, cover, light
+1	counterfeit n. & v.act, cover, pass
+1	country dance
+1	coverage
+1	coverlet n.top, case, dress
+1	covert
+1	coverup disguise, cloak, veil
+1	cowcatcher defense
+1	cowl
+1	cowling
+1	crab v.check, block, obscure
+1	crash helmet
+1	crop n.
+1	cuirass defense
+1	curb n. & v.cover, check, hinder
+1	cushion
+1	cut glass
+1	cut off v. & exp.check, block, obscure
+1	dashboard
+1	daub v.cover, obscure, hide
+1	deceit trick, sham, con
+1	deception cover, show, trick
+1	deceptive marking exp.disguise, cloak, veil
+1	demeanor n. & exp.appearance, cover, show
+1	deny
+1	deodorize
+1	dermis n.covering
+1	dim v.cover, obscure, confuse
+1	diminish v.cover, ease, moderate
+1	display cover, light, top
+1	distract attention from exp. & idi.
+1	do on the sly exp. & idi.cover, obscure, hide
+1	dodger
+1	dome n.top, case, dress
+1	donation party
+1	double-talk v.act, cover, pass
+1	doublespeak v.act, cover, pass
+1	drapery
+1	drop n.top, case, dress
+1	drown v.
+1	dumb act exp.trick, sham, con
+1	ease v.cover, moderate, diminish
+1	eliminate expel, exclude, debar
+1	embossment
+1	encircle v.cover, hide, pack
+1	enclose v.cover, obscure, hide
+1	exaggerate v.promote, twist, confuse
+1	exculpate v.cover, ease, moderate
+1	expression n.cover, face, appearance
+1	extenuate n. & v.cover, ease, moderate
+1	exterior n.appearance, cover, light
+1	face guard exp. & idi.defense
+1	fake n. & v.act, appearance, cover
+1	faking trick, sham, con
+1	false appearance exp.disguise, cloak, veil
+1	falsification trick, sham, con
+1	fancy-dress ball
+1	features n. & exp.appearance, light, top
+1	feign v.act, cover, pass
+1	fez clothing
+1	fig leaf n. & exp.cover, cause, top
+1	figure n.appearance, cover, impression
+1	fill v.check, block, obscure
+1	finger guard
+1	flytrap deception
+1	fog cover, obscure, hide
+1	fold v.cover, hide, pack
+1	foot guard
+1	foul up v. & exp.check, block, obscure
+1	four-flush v.act, cover, pass
+1	frown n.feature, light, top
+1	fudge
+1	fuse
+1	gasmask n.
+1	gauntlet defense
+1	gauze n.
+1	get in the way v. & exp. & idi.check, block, obscure
+1	gift-wrap v.cover, pack, bind
+1	gild
+1	give snow job exp. & idi.promote, twist, confuse
+1	glare obscure, muddle, distort
+1	gloze v.cover, ease, moderate
+1	glyph
+1	glyptograph
+1	goggles
+1	governor
+1	gray v.cover, confuse, hide
+1	grimace n.feature, light, top
+1	guardrail
+1	habergeon defense
+1	hamstring v.check, block, obscure
+1	hand guard
+1	handle
+1	handrail
+1	hanging
+1	hard hat
+1	hauberk defense
+1	headdress clothing
+1	headgear clothing
+1	headpiece defense
+1	helm defense
+1	hide-out n.cover, disguise, cover-up
+1	hideaway n.cover, disguise, cover-up
+1	hiding n.cover, disguise, cover-up
+1	high relief
+1	hop
+1	house v.cover, obscure, hide
+1	house-raising
+1	house party
+1	housing
+1	image n.appearance, impression, sham
+1	immerse v.cover, hide, pack
+1	incognito
+1	inhibit v.check, block, obscure
+1	insulation
+1	intaglio
+1	intaglio rilevato
+1	intaglio rilievo
+1	integument n.top, case, dress
+1	inter conceal, veil, secrete
+1	interfere v.check, block, obscure
+1	interlock
+1	interrupt v.check, block, obscure
+1	jacket n.top, case, dress
+1	jam clothing
+1	justify v.cover, ease, moderate
+1	keep
+1	keep dark exp.cover, obscure, hide
+1	kepi clothing
+1	kerchief clothing
+1	kisser n. & exp.appearance, light, top
+1	knee guard
+1	knuckle guard
+1	lame excuse
+1	laminated glass
+1	laundromat n.cover, disguise, cover-up
+1	lay on
+1	lay over
+1	layer n. & v.cover, finish, obscure
+1	lessen v.cover, ease, moderate
+1	let on v. & exp.act, cover, pass
+1	lid n.top, case, dress
+1	lie n. & v.cover, promote, twist
+1	life preserver
+1	lifeline
+1	lighten v.cover, ease, moderate
+1	lightning conductor
+1	lightning rod
+1	likeness n.appearance, impression, resemblance
+1	lock up exp.cover, block, obscure
+1	locus standi
+1	low relief
+1	lurk cover, obscure, hide
+1	make-believe suppress, trick, sham
+1	make hazy exp.obscure, muddle, distort
+1	make indistinct exp.obscure, muddle, distort
+1	make light of v. & exp. & idi.cover, ease, moderate
+1	make like v. & exp.act, cover, pass
+1	make vague exp.obscure, muddle, distort
+1	mangle v.promote, twist, confuse
+1	map n. & exp.appearance, light, top
+1	marquee n.top, case, dress
+1	masked
+1	masked battery exp. & idi.deception
+1	masks
+1	masquerade ball
+1	masquerade dress exp. & idi.ambush
+1	medal
+1	medallion
+1	memo slip exp. & idi.
+1	mimicry disguise, cloak, veil
+1	minimize v.cover, ease, moderate
+1	miscite
+1	misinterpret v.promote, twist, confuse
+1	mitigate v.cover, ease, moderate
+1	moderate v.cover, ease, diminish
+1	mollify v.cover, ease, moderate
+1	monkey with v. & exp.check, block, obscure
+1	muddy cover, obscure, hide
+1	mudguard
+1	muffler
+1	mug n. & exp.appearance, light, top
+1	net n.cover, deception, shield
+1	nose guard
+1	obduce
+1	obfuscate
+1	obliteration n.cover, disguise, cover-up
+1	obscuration n.cover, disguise, cover-up
+1	occlude v.check, block, obscure
+1	occultation n.cover, disguise, cover-up
+1	ostensible motive
+1	ostentation trick, sham, con
+1	outside
+1	overdraw v.promote, twist, confuse
+1	overshadow v.cover, confuse, hide
+1	pack v.cover, bind, fold
+1	package v.cover, pack, bind
+1	pad
+1	padding
+1	paint n. & v.light, top, case
+1	palladium
+1	palter v.promote, twist, confuse
+1	parasol n.top, case, dress
+1	pass v.act, cover, pretend
+1	patent
+1	persona
+1	phizog n. & exp.appearance, face, mug
+1	phony up v. & exp.promote, twist, confuse
+1	physiognomy n. & exp.appearance, light, top
+1	pilot
+1	pirate v.promote, twist, confuse
+1	plain brown wrapper exp. & idi.disguise, cloak, veil
+1	plaquette
+1	play n.show, informal, piece
+1	play possum v. & exp.act, cover, pass
+1	plug v.check, block, obscure
+1	poker face n. & exp.appearance, face, features
+1	polish n.top, case, dress
+1	poor excuse
+1	popping n. & v.care, face, changes
+1	posing trick, sham, con
+1	posturing trick, sham, con
+1	pretension
+1	pretentiousness trick, sham, con
+1	prettify v.cover, ease, moderate
+1	prevaricate v.promote, twist, confuse
+1	preventive
+1	privacy n.cover, disguise, cover-up
+1	prom
+1	promenade
+1	promote v.twist, confuse, lie
+1	prophylactic
+1	protective clothing
+1	protective coloration
+1	protective coloring exp.disguise, cloak, veil
+1	protective umbrella
+1	protestation
+1	public motive
+1	puff v.promote, twist, confuse
+1	pussyfoot v.act, cover, pass
+1	put-off
+1	put in a hole exp. & idi.cover, obscure, hide
+1	put off
+1	put on a Band-Aid v. & exp. & idi.cover, ease, moderate
+1	put on a false front v. & exp. & idi.act, cover, pass
+1	put on a front v. & exp. & idi.act, cover, pass
+1	put on an act v. & exp. & idi.act, cover, pass
+1	put up a front v. & exp. & idi.act, cover, pass
+1	put up a smoke screen v. & exp. & idi.act, cover, pass
+1	qualify v.cover, ease, moderate
+1	quick fix v. & exp.cover, ease, moderate
+1	record hop
+1	red herring n. & exp.cover, cause, con
+1	refuge
+1	relief
+1	relieve v.cover, ease, moderate
+1	relievo
+1	resemblance n.appearance, impression, facade
+1	revel cover, show, deception
+1	robe
+1	roll up v. & exp.cover, hide, pack
+1	roof n.top, case, dress
+1	routine cause, trick, sham
+1	ruse cause, trick, sham
+1	safety
+1	safety glass
+1	safety plug
+1	safety rail
+1	safety shoes
+1	safety switch
+1	safety valve
+1	sandbag v.check, block, obscure
+1	schtick trick, sham, con
+1	sculptured glass
+1	scum
+1	seal n. & v.top, case, dress
+1	seat belt
+1	seclude v.close, cover, obscure
+1	secretion n.cover, disguise, cover-up
+1	set on exp.cover, obscure, hide
+1	shako clothing, defense
+1	sheathe v.cover, hide, pack
+1	sheet n.top, case, dress
+1	shin guard
+1	showing n.appearance, show, light
+1	shuck and jive v. & exp. & idi.act, cover, pass
+1	shuffling trick, sham, con
+1	shut off v. & exp.close, cover, check
+1	shutter n. & v.close, cover, obscure
+1	signify v.act, cover, pass
+1	simulacrum n.appearance, show, light
+1	simulate v.act, cover, pass
+1	skew v.promote, twist, confuse
+1	skin n.covering
+1	skulk cover, obscure, hide
+1	slink cover, obscure, hide
+1	slow down v. & exp.check, block, obscure
+1	slur over
+1	smooth over v. & exp.hide, white, doctor
+1	sneak cover, obscure, hide
+1	snow
+1	soften v.cover, ease, moderate
+1	soothe v.cover, ease, moderate
+1	spread n.top, case, dress
+1	spread it on v. & exp. & idi.promote, twist, confuse
+1	spread over
+1	square dance
+1	stag
+1	stag dance
+1	stalking-horse
+1	stall n. & v.check, cause, block
+1	stay out of sight exp. & idi.cover, obscure, hide
+1	stopper n. & v.check, block, top
+1	stow cover, obscure, hide
+1	strain
+1	stretch v.promote, twist, confuse
+1	sugarcoat n. & v.cover, ease, moderate
+1	sun helmet
+1	surface n. & v.cover, light, top
+1	surprise party
+1	surround v.cover, obscure, encase
+1	swaddle v.cover, hide, pack
+1	take out of context exp. & idi.promote, twist, confuse
+1	tarp n.top, case, dress
+1	tarpaulin n.top, case, dress
+1	tea dance
+1	tegument n.top, case, dress
+1	temper v.cover, ease, moderate
+1	tent n.top, case, dress
+1	terminate v.check, block, obscure
+1	throttle v.check, block, obscure
+1	throw a curve exp. & idi.promote, twist, confuse
+1	titivate
+1	top n.light, case, dress
+1	trick out
+1	trickery trick, sham, con
+1	trump up v. & exp.promote, twist, confuse
+1	twine v.cover, hide, pack
+1	undeceive disclosure
+1	understate
+1	vest
+1	vestment
+1	vindicate v.cover, ease, moderate
+1	vizard mask
+1	weigh down v. & exp.check, block, obscure
+1	white n. & v.cover, ease, moderate
+1	whiten n. & v.cover, ease, moderate
+1	wind v.cover, hide, pack
+1	windscreen
+1	windshield
+1	withhold v.cover, block, obscure
+1	wrapper n.top, case, dress
+1	wraps n.cover, top, case
+0	abate v.cover, ease, moderate
+0	alikeness n.appearance, impression, resemblance
+0	analogy n.appearance, impression, resemblance
+0	armet defense
+0	armored
+0	armored vest exp. & idi.defense
+0	arrest v.check, obscure, hinder
+0	artifice trick, sham, con
+0	attitudinize pretend, disguise, impersonate
+0	aura n.appearance, impression, resemblance
+0	backplate defense
+0	baited
+0	baited trap exp. & idi.deception
+0	ban expel, exclude, debar
+0	barrier n.shield, partition, panel
+0	baseball
+0	baseball cap exp. & idi.clothing
+0	bate expel, exclude, debar
+0	battery
+0	be cloud exp. & idi.concealment
+0	be mask exp. & idi.concealment
+0	be overcast v.cover, protect, shield
+0	beaver hat exp. & idi.clothing
+0	behavior appearance, show, semblance
+0	beleaguer v.close, cover, bar
+0	belies
+0	bias
+0	billyheaddress clothing
+0	biscuit n. & exp.appearance, face, features
+0	blackball expel, exclude, debar
+0	blacken v.cover, protect, shield
+0	blacklist expel, exclude, debar
+0	blank
+0	blank out
+0	blarney
+0	blindfold
+0	blockade v.close, cover, bar
+0	blow smoke
+0	bluff appearance, cover, cause
+0	bodyguard
+0	bolter
+0	bounce expel, exclude, debar
+0	bow tie exp. & idi.
+0	boycott expel, exclude, debar
+0	bulletproof
+0	bulletproof vest exp. & idi.defense
+0	busby clothing
+0	butterfly disc exp. & idi.
+0	butterfly nut exp. & idi.
+0	cabaset defense
+0	cant falsehood
+0	cape
+0	carnival cover, show, deception
+0	carriage cover, air, presence
+0	casque defense
+0	casquetel defense
+0	cast a shadow v. & exp. & idi.cover, protect, shield
+0	catcher's protection
+0	cause con, excuse
+0	chador
+0	cheese
+0	choke v.check, obscure, hinder
+0	choke back
+0	choke down
+0	chuddar
+0	cinemas
+0	circle clothing
+0	circus cover, show, deception
+0	cleanup cause, con, excuse
+0	clock light, top, countenance
+0	clog v.check, block, obscure
+0	close out exp.expel, exclude, debar
+0	close the curtain exp. & idi.concealment
+0	cloud over v. & exp.cover, protect, shield
+0	cloud up v. & exp.cover, protect, shield
+0	coat of mail exp. & idi.defense
+0	colour
+0	colour masking exp. & idi.
+0	comedy n.performance, show, hit
+0	comparison n.appearance, impression, resemblance
+0	complicate v.check, hinder, confuse
+0	composition n.show, production, drama
+0	conceal truth n. & v. & exp.hide, white, soft-pedal
+0	concealing
+0	coonskin
+0	coonskin cap exp. & idi.clothing
+0	cop-out cause, con, excuse
+0	correct disclosure
+0	costume ball exp.cover, show, deception
+0	count out exp.expel, exclude, debar
+0	cover flap exp. & idi.
+0	cover over
+0	coverer
+0	critical
+0	crush
+0	crush hat exp. & idi.clothing
+0	csako clothing
+0	curtain-raiser n.performance, show, hit
+0	daze obscure, muddle, distort
+0	dazzle obscure, muddle, distort
+0	deacon n. & v.hide, white, doctor
+0	deadpan
+0	debar close, expel, exclude
+0	deceive falsehood
+0	deceptive appearance
+0	decoy-duck deception
+0	deepen v.cover, protect, shield
+0	describe v.
+0	dial light, top, countenance
+0	dionaea deception
+0	disabuse disclosure
+0	disallow expel, exclude, debar
+0	discontinue v.close, cover, refuse
+0	disguise yourself exp.impersonate, pose
+0	disguising
+0	dissembles
+0	dissimulates
+0	divider n.cover, shield, partition
+0	doctor n. & v.colour, hide, white
+0	dolman
+0	double-dealing trick, sham, con
+0	draw curtain exp. & idi.concealment
+0	drawing
+0	drawing veil exp. & idi.concealment
+0	drive out exp.expel, exclude, debar
+0	eject expel, exclude, debar
+0	embargo expel, exclude, debar
+0	enclosure slip exp. & idi.
+0	envelope enclosure exp. & idi.
+0	erase
+0	estop expel, exclude, debar
+0	evasion trick, sham, con
+0	evict close, expel, exclude
+0	except expel, exclude, debar
+0	exclude screen exp.close, cover, refuse
+0	expel exclude, debar
+0	expose disclosure
+0	extenuates
+0	eye
+0	eye bandage exp. & idi.
+0	eyeliner
+0	fabrication trick, sham, con
+0	faceguard
+0	facet light, top, countenance
+0	facial disguise
+0	facial features exp. & idi.
+0	facing finish, covering, surface
+0	false bottom exp. & idi.deception
+0	false colours
+0	false flag
+0	false show exp.appearance, show, face
+0	falsehood trick, sham, con
+0	fancy dress exp. & idi.
+0	farce n.performance, show, hit
+0	feel n.appearance, impression, resemblance
+0	feeling n.appearance, impression, resemblance
+0	feigning trick, sham, con
+0	fence off v. & exp.close, cover, bar
+0	fend v.close, cover, hide
+0	fiddle
+0	finesse cover, hide, conceal
+0	finish light, top, covering
+0	fire screen
+0	fireguard
+0	fishing
+0	fishing hat exp. & idi.clothing
+0	flop n.performance, show, hit
+0	forage
+0	forage cap exp. & idi.clothing
+0	forbid expel, exclude, debar
+0	force out exp.expel, exclude, debar
+0	frolic pretend, disguise, impersonate
+0	frontage appearance, cover, light
+0	frontal light, top, countenance
+0	frontispiece light, top, countenance
+0	frustrate v.check, obscure, hinder
+0	gag trick, sham, con
+0	get rid of exp. & idi.expel, exclude, debar
+0	gills n. & exp.appearance, face, features
+0	glower feature, light, top
+0	goods
+0	green goods exp. & idi.deception
+0	grounds cause, con, excuse
+0	guard sheet exp. & idi.
+0	guet-a-pens deception
+0	halloween accessory
+0	halloween purchase
+0	hamper v.check, block, obscure
+0	hang up v. & exp.check, hinder, frustrate
+0	head clothing
+0	hearse
+0	heaume defense
+0	hedge n.cover, shield, partition
+0	hide from view exp. & idi.conceal, veil, secrete
+0	hinder v.check, frustrate, thwart
+0	hit n.performance, show, production
+0	hoax trick, sham, con
+0	hold up v. & exp.check, block, obscure
+0	house warming n.meet, party, celebration
+0	ignore expel, exclude, debar
+0	imitate impersonate, pose
+0	impede v.check, hinder, frustrate
+0	impersonate pretend, disguise, pose
+0	impersonation cover, show, deception
+0	imposture cover, show, deception
+0	impression n.appearance, resemblance, facade
+0	indicate roughly exp. & idi.
+0	infold v.wrap
+0	insincerity trick, sham, con
+0	interdict expel, exclude, debar
+0	intoxicate v.
+0	inumbrate v.cover, protect, shield
+0	invention trick, sham, con
+0	kaffeeklatsch
+0	kaffiyeh clothing
+0	keep off exp.close, expel, exclude
+0	keep out v. & exp.close, cover, refuse
+0	keep to yourself exp. & idi.hide, conceal, retain
+0	keep under wraps v. & idi.show, prevent
+0	kiss
+0	lampshade
+0	launder cover, hide, conceal
+0	lay open exp. & idi.disclosure
+0	leaf finish, covering, surface
+0	leave out exp.expel, exclude, debar
+0	lift the mask exp. & idi.disclosure
+0	light top, countenance, exterior
+0	lineament
+0	lineaments light, top, countenance
+0	lock out exp.close, expel, exclude
+0	looks n. & exp.appearance, face, features
+0	lorication defense
+0	make as if exp. & idi.impersonate, pose
+0	makeup light, top, countenance
+0	manner cover, air, presence
+0	mantilla covering, shroud
+0	mascara
+0	masking process exp. & idi.
+0	masquerade costume exp. & idi.
+0	matte
+0	meddle
+0	meshes deception
+0	mess
+0	mess around
+0	minder
+0	mine deception
+0	misrepresentation trick, sham, con
+0	misstatement trick, sham, con
+0	mobcap clothing
+0	mode appearance, show, semblance
+0	mood n.appearance, impression, resemblance
+0	morion defense
+0	mouse
+0	mouse trap exp. & idi.deception
+0	move v.
+0	murrion defense
+0	musical n.performance, show, hit
+0	mute v.cover, protect, shield
+0	nightcap clothing
+0	noose deception
+0	obliterate
+0	observation
+0	obverse light, top, countenance
+0	obviate expel, exclude, debar
+0	often deceptive exp.appearance, color, front
+0	omit expel, exclude, debar
+0	one-act n.performance, show, hit
+0	opera n.performance, show, hit
+0	opera hat exp. & idi.clothing
+0	ostracize close, expel, exclude
+0	oust expel, exclude, debar
+0	outerwear
+0	overcoat
+0	overcoats
+0	pagri clothing
+0	panel n.shield, partition
+0	panel house exp. & idi.deception
+0	parking ticket exp. & idi.
+0	parody
+0	partition n.shield, panel
+0	pass as exp.pretend, disguise, impersonate
+0	pass for exp.pretend, disguise, impersonate
+0	pass off exp.twist, pretend, disguise
+0	pass over exp.expel, exclude, debar
+0	pelisse
+0	pelt clothing
+0	penumbra
+0	performance n.show, hit, production
+0	periwig clothing
+0	personation cover, show, deception
+0	peruke clothing
+0	phiz countenance, features, visage
+0	phony appearance, cover, fake
+0	pickelhaube defense
+0	piece n.show, production, drama
+0	pitfall deception
+0	play the hypocrite exp. & idi.falsehood
+0	plea show, cause, face
+0	ploy cause, con, excuse
+0	poncho
+0	port cover, air, presence
+0	potato n. & exp.appearance, face, features
+0	potboiler n.performance, show, hit
+0	pout feature, light, top
+0	preclude expel, exclude, debar
+0	presence cover, air
+0	presentation light, top, countenance
+0	pretences
+0	pretend to be exp. & idi.impersonate, pose
+0	prevent v.check, hinder, bar
+0	production n.show, drama
+0	profession
+0	profile n.feature, light, top
+0	prohibit v.check, hinder, bar
+0	proscribe expel, exclude, debar
+0	protection n.
+0	public image exp.sham
+0	puggaree clothing
+0	puss n. & exp.appearance, face, features
+0	put out exp.expel, exclude, debar
+0	put out of sight exp. & idi.conceal, veil, secrete
+0	raise the mask exp. & idi.disclosure
+0	rationalize n. & v.hide, white, doctor
+0	refuse close, expel, exclude
+0	refuse admittance exp.expel, exclude, debar
+0	reject expel, exclude, debar
+0	remove expel, exclude, debar
+0	remove the mask exp. & idi.disclosure
+0	repress
+0	repudiate expel, exclude, debar
+0	resist
+0	respirator n.
+0	restrain v.check, obscure, hinder
+0	restrict v.check, obscure, hinder
+0	retain hide, conceal
+0	retard v.check, block, obscure
+0	riddle
+0	role appearance, show, semblance
+0	rule out exp.expel, exclude, debar
+0	salade defense
+0	scowl feature, light, top
+0	screen from observation exp. & idi.concealment
+0	screen from sight exp. & idi.concealment
+0	scutum defense
+0	secrecy n.cover, disguise, cover-up
+0	secret adj.
+0	secure v.close, cover, hide
+0	security n.cover, shield, partition
+0	separate v.close, cover, obscure
+0	set aside exp.expel, exclude, debar
+0	set right exp. & idi.disclosure
+0	shape appearance, show, semblance
+0	shawl
+0	shell n.top, case, covering
+0	show up
+0	shut the door on exp. & idi.expel, exclude, debar
+0	side letter exp. & idi.
+0	sideline expel, exclude, debar
+0	siege
+0	siege cap exp. & idi.defense
+0	sieve
+0	sifter
+0	silhouette countenance, features, visage
+0	similarity n.appearance, impression, resemblance
+0	simile n.appearance, impression, resemblance
+0	similitude n.appearance, impression, resemblance
+0	skullcap clothing
+0	sky scraper exp. & idi.
+0	sliding
+0	sliding panel exp. & idi.deception
+0	slipcover
+0	smash n.performance, show, hit
+0	smash hit n. & exp.performance, show, hit
+0	smirk light, top, countenance
+0	snare deception
+0	snood clothing
+0	snorkeling wear
+0	snowed dress, stretch
+0	snowsuit
+0	soft-pedal n. & v.hide, white, doctor
+0	sola
+0	sola topi exp. & idi.clothing
+0	sombrero clothing
+0	song and dance exp. & idi.cause, con, excuse
+0	spatial operator exp. & idi.
+0	spread on exp.promote, twist, lie
+0	spring-net deception
+0	spring gun exp. & idi.deception
+0	spring net exp. & idi.deception
+0	springe deception
+0	springle deception
+0	stage show n. & exp.performance, show, hit
+0	stash away v.
+0	stencil
+0	stop v.check, obscure, hinder
+0	strainer
+0	stunt trick, sham, con
+0	stymie v.check, hinder, frustrate
+0	subdue
+0	suppression disguise, cover-up
+0	suspend expel, exclude, debar
+0	tam-o-shanter clothing
+0	tamper
+0	tape n.
+0	tarboosh clothing
+0	taut
+0	tauter
+0	tensed
+0	tenser
+0	theater piece n. & exp.performance, show, hit
+0	theatrical n.performance, show, hit
+0	thimble defense
+0	throw out exp.expel, exclude, debar
+0	thwart v.check, block, obscure
+0	tile clothing
+0	tinker
+0	toga
+0	toils deception
+0	tone down v. & exp.cover, protect, shield
+0	topi clothing
+0	tracks
+0	tragedy n.performance, show, hit
+0	trammel v.check, block, obscure
+0	transparent media adapter exp. & idi.
+0	trap deception
+0	trapdoor deception
+0	tub
+0	turban clothing
+0	turkey n.performance, show, hit
+0	umbrage v.close, cover, obscure
+0	unbeguile disclosure
+0	vambrace defense
+0	veiling covering, shroud
+0	velum
+0	veto expel, exclude, debar
+0	view n.
+0	visors
+0	wall off v. & exp.close, cover, obscure
+0	ward off exp.expel, exclude, debar
+0	weaken
+0	whale
+0	whisper concealment
+0	wideawake clothing
+0	wig clothing
+0	wile trick, sham, con
+0	wimple clothing
+0	wink
+0	work n.show, production, drama
+0	wring burner exp. & idi.
+0	yashmak
+-1	Mardi Gras exp.cover, show, deception
+
+# Antonyms
+
+7	unmask v.open, expose
+5	reveal v.open, expose
+5	show v.open, expose
+5	uncover v.open, expose
+3	disclose v.open, expose
+3	expose v.open
+3	tell v.open, expose
+2	betray
+2	confess v.keep, deny, confirm
+2	demonstrate v.
+2	divulge v.open, expose
+2	interact v.
+2	unveil v.
+0	achieve v.
+0	discover
+0	disinter
+0	exhibit
+0	improve v.
+0	lay bare v. & exp.open, expose
+0	lay open v. & exp.open, expose
+0	abandon v.open, expose
+0	accentuate v.focus
+0	acknowledge
+0	activate v.
+0	admit
+0	advance
+0	advertise
+0	aggrandize v.
+0	amplify v.
+0	appear v.
+0	arise v.
+0	arrange v.
+0	ascertain
+0	attack v.open, expose
+0	augment v.
+0	avow
+0	bare
+0	broadcast
+0	broaden v.
+0	certify
+0	circulate
+0	communicate
+0	create v.
+0	cultivate v.
+0	debunk
+0	declare
+0	deploy v.
+0	develop v.
+0	dilate v.
+0	display
+0	dispose v.
+0	disregard v.open, expose
+0	distend v.
+0	edit v.
+0	educate v.
+0	emerge v.
+0	endorse
+0	enhance v.
+0	enlarge v.
+0	evince
+0	evolve v.
+0	execute v.
+0	exhume
+0	expand v.
+0	explain v.
+0	explicate v.
+0	exposure
+0	expound v.
+0	extend v.
+0	flaunt
+0	flourish v.
+0	forget v.open, expose
+0	formulate v.
+0	generate v.
+0	grow v.
+0	harm v.open, expose
+0	hear
+0	hurt v.open, expose
+0	ignore v.open, expose
+0	inflate v.
+0	injure v.open, expose
+0	leak
+0	learn
+0	let out v. & exp. & phr. v.open, expose
+0	make known
+0	manifest
+0	nail
+0	open v.expose
+0	operate v.
+0	peer
+0	perform v.
+0	prepare v.
+0	promote v.
+0	promulgate
+0	propagate
+0	prosper v.
+0	provide
+0	publish
+0	put v.
+0	raise
+0	reality n.truth
+0	realize
+0	recognize
+0	reinforce v.
+0	see
+0	spit out
+0	thrive v.
+0	truth n.
+0	unburden
+0	uncloak
+0	undress
+0	unearth
+0	unfold v.
+0	unroll v.
+0	utter
+0	visible
+-1	call attention to
+-1	draw attention to
+-1	point up
