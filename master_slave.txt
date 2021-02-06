@@ -2,8 +2,9 @@ master_slave.txt
 
 https://bugs.python.org/issue34605
 https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language
-master slave
-parent child
-leader follower
+
+master  slave
+parent  child
+leader  follower
 primary replica
-parent process worker/helper
+parent  process worker/helper
