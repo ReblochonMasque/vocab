@@ -45,22 +45,15 @@ e : a cosmetic preparation for the skin of the face that produces a tightening e
 b : an area (such as the one around the eyes) of an animal's face that is distinguished by usually darker coloring
 
 
-
-
-
-
-
 Crib
-
-
-
-
-
-
 
 
 Filter
 
 
 SOLID
+BLOCKED
+
 PUNCHED
+OPENED
+
