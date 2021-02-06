@@ -67,6 +67,14 @@ ANSWERS: answers, answer, ans, results, result, res
 TREES - GRAPHS: node, child, children, successor, ancestor, edge, directed_edge, value,
                 weight, cost, leaf, internal_node
 
+PAIRS: pair = items,
+       left, right = items
+       old, new = items
+       primary, secondary = items
+       important, ignored = items
+
+
+
 
 
 
