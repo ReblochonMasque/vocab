@@ -8,7 +8,6 @@ view
 context
 
 
-
 AVOID: "l" and "o" too easy to confuse with "1", capital "I" or "zero"
 PREFIXES: new, old, ex, temp, ref, next, previous, prev, partial, current, curr, internal,
           terminal, temporary, local
@@ -74,22 +73,6 @@ PAIRS: pair = items,
        important, ignored = items
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 attribute
 type
 helper
@@ -134,7 +117,3 @@ Factory - Creates other objects (naming taken from the design pattern)
 Shepherd - A shepherd handles the lifetime of objects, their creation and shutdown
 Synchronizer - Copies data between two or more objects (or object hierarchies)
 Nanny - Helps objects reach "usable" state after creation - for example by wiring to other objects
-
-
-
-
